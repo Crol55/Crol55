@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img alt="VB" src="https://img.shields.io/badge/VB.net-007ACC?style=for-the-badge&logo=.net&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=green" />
 </p>
-<br />
+
 
 ### Databases 
 <p>
@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle&logoColor=F80000"/>
 <img alt="Dynamo" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=black"/>
 </p>
-<br />
 
 ### Tools 
 
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
     <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=232F3E" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black" />
 </p>
-<br />
 
 ### Frameworks
 
