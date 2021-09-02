@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... Building a compiler
+- 🌱 I’m currently learning ... Python 
+- 🤔 I’m looking for help with ... Kubernetes
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: Dunno XD
